@@ -8,10 +8,8 @@ Welcome to the **Banker's Algorithm Simulator**! This application is designed to
 - **User-Friendly Interface**: Simple and intuitive interface built with React and React Bootstrap.
 - **Customizable Input**: Easily input different scenarios to see how the algorithm responds.
 
-## 📸 Screenshots
-
-![Banker's Algorithm Simulator Screenshot](./screenshots/simulator.png)
-
+## 📸 Working link
+ this is the working link : http://nishank-project-s3.s3-website-ap-southeast-2.amazonaws.com
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
